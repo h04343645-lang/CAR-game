@@ -1,0 +1,6 @@
+{
+  "name": "Apex AI Racer",
+  "description": "High-octane autonomous AI car simulation and racing game with raycast sensor obstacle avoidance, custom garage, and developer admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
